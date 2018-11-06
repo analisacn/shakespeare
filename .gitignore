@@ -1,0 +1,6 @@
+*venv/
+*.pyc
+*.idea/
+*/__pycache__
+*used_words.txt
+
